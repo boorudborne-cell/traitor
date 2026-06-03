@@ -1,3 +1,8 @@
+HEAD
 branch2 line X
 branch2 line Y
 branch2 line Z
+branch1 line A
+branch1 line B
+branch1 line C
+branch1
